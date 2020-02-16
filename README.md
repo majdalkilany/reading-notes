@@ -6,7 +6,7 @@
 
 First Header | Second Header
 ------------ | -------------
-class01      | [read01]()
+class01      | [read01](https://majdalkilany.github.io/reading-notes/read01)
 class02      | [read01]()
 class03      | [read01]()
 class04      | [read01]()
