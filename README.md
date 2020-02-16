@@ -13,7 +13,7 @@ _its made by markdown_
 Class numb.  |  Read numb
 ------------ | -------------
 class01      | [read01](https://majdalkilany.github.io/reading-notes/read01)
-class02      | [read01]()
+class02      | [read02](https://majdalkilany.github.io/reading-notes/read02)
 class03      | [read01]()
 class04      | [read01]()
 class05      | [read01]()
