@@ -1,5 +1,4 @@
-
-
+#  JS Debugging
 how to find the errors in your code. It will also teach you how to write scripts that deal with potential errors gracefully.
 
 * THE CONSOLE & DEV TOOLS Tools  
